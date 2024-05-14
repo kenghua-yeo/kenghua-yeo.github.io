@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  uflowise:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-14T22:30:33.906691974+08:00"
+    description: A Helm chart for Kubernetes
+    digest: caf15f08d6b9b89c3ba19b7e367c73a5a954d90a9a1419bb5e27ae45c8d1f6ab
+    name: uflowise
+    type: application
+    urls:
+    - https://kenghua-yeo.github.io/charts/uflowise-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-14T22:30:33.906259695+08:00"
